@@ -10,9 +10,7 @@
 <meta name="description" content="ismido,istanbul midye dolma,denizden gelen enerji,midye,midye dolma">
 
 
-
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-
 
 <style type="text/css">
 <!--
