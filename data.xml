@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="windows-1254" ?>
+
+<my3dgallery>
+	
+	<photos>
+			<photo>
+				<thumb src="images/1.jpg" />
+				<img src="images/1big.jpg" />
+				<caption text="" />
+				<desc> <![CDATA[ Sitemiz yayin hayatina baslamistir.Birbirinden lezzetli urunlerimiz icin... <a href="event:http://www.ismido.com/hakkimizda.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/2.jpg" />
+				<img src="images/2big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Midye ciftligimizden goruntuler. <a href="event:http://www.ismido.com/uretim"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/3.jpg" />
+				<img src="images/3big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[ <a href="event:http://www.ismido.com/uretim.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/4.jpg" />
+				<img src="images/4big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma birbirinden lezzetli ismido urunleri.<a href="event:http://www.ismido.com/urunler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/5.jpg" />
+				<img src="images/5big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[ <a href="event:http://www.ismido.com/urunler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/6.jpg" />
+				<img src="images/6big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/urunler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/7.jpg" />
+				<img src="images/7big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/urunler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/8.jpg" />
+				<img src="images/8big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma paketlerimiz. <a href="event:http://www.ismido.com/paketler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/9.jpg" />
+				<img src="images/9big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/paketler.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/10.jpg" />
+				<img src="images/10big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma midye uretim ciftligimizden goruntuler. <a href="event:http://ismido.com/uretım.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/11.jpg" />
+				<img src="images/11big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/uretim.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/12.jpg" />
+				<img src="images/12big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma midye standlarimiz. <a href="event:http://www.ismido.com/standlar.php"> Devami... </a> ]]> </desc>
+			</photo>
+			
+			<photo>
+				<thumb src="images/13.jpg" />
+				<img src="images/13big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/uretim.php"> Devami... </a> ]]> </desc>
+			</photo>
+			<photo>	<thumb src="images/14.jpg" />
+				<img src="images/14big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[ <a href="event:http://www.ismido.com/uretim.php"> Devami... </a> ]]> </desc>
+			</photo>
+
+			<photo>
+				<thumb src="images/15.jpg" />
+				<img src="images/15big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma midye standlarimiz. <a href="event:http://www.ismido.com/standlar.php"> Devami... </a> ]]> </desc>
+			</photo>
+
+			<photo>
+				<thumb src="images/16.jpg" />
+				<img src="images/16big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[<a href="event:http://www.ismido.com/standlar.php"> Devami... </a> ]]> </desc>
+			</photo>
+
+			<photo>
+				<thumb src="images/17.jpg" />
+				<img src="images/17big.jpg" />
+				<caption text=""/>
+				<desc> <![CDATA[Istanbul Midye Dolma birbirinden lezzetli ismido urunleri. <a href=\"event:track1.mp3\">Track 1</a><br> ]]> </desc>
+			</photo>
+
+			
+			
+	</photos>
+	
+</my3dgallery>
