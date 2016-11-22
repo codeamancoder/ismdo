@@ -500,7 +500,7 @@ add_action('wp_head', 'gmaps_header');
  
 function gmaps_header() {
   ?>
-  <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&key=AIzaSyClBA7NfnA4UoipSUaGFnjdccPWzP60mlw"></script>
   <?php
 }
 function er_leaf_map($atts) {
