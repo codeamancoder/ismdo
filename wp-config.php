@@ -23,13 +23,13 @@
 
 define('DISALLOW_FILE_EDIT', true);
 
-define('DB_NAME', 'srkn_hrknyap');
+define('DB_NAME', 'srkn_ismidv2');
 
 /** MySQL veritabanı kullanıcısı */
-define('DB_USER', 'srkn_hrknyap');
+define('DB_USER', 'srkn_ismidv2');
 
 /** MySQL veritabanı parolası */
-define('DB_PASSWORD', 'inSdArbG');
+define('DB_PASSWORD', 'iTk0ESNP');
 
 /** MySQL sunucusu */
 define('DB_HOST', 'localhost');
@@ -68,7 +68,7 @@ define('NONCE_SALT',       '~j$fDn-;_hE Y%/m%fZ=$,f~Q[i<5656dy<VcyJ*ouk_ic)U^BO4
 $table_prefix  = 'cmrfu_';
 
 /**
- * WordPress yerel dil */include /*dosyası, varsayılan ingilizce.
+ * WordPress yerel dil dosyası, varsayılan ingilizce.
  *
  * Bu değeri değiştirmenize gerek yok! Zaten Türkçe'ye ayarlı.
  * tr_TR.mo Türkçe dil dosyasının wp-content/languages dizini altında olduğundan emin olun.

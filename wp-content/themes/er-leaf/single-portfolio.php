@@ -29,14 +29,14 @@
 
 				<div class="col-7" id="content">
 					<div class="heading-block">
-						<h4><?php _e('Proje açıklama','er_leaf');?></h4>
+						<h4><?php _e('Project description','er_leaf');?></h4>
 					</div><!-- // .heading-block -->
 					<?php echo rwmb_meta('er_leaf_project_detail');?>
 				</div><!-- // .content -->
 
 				<div class="col-4 offset-1" id="sidebar">
 					<div class="heading-block">
-						<h4><?php _e('Proje detay','er_leaf');?></h4>
+						<h4><?php _e('Project details','er_leaf');?></h4>
 					</div><!-- // .heading-block -->
 					<ul class="portfolio-infomations">
 						<li>
@@ -117,7 +117,7 @@
 			<?php if ( get_the_content() ): ?>
 			<div class="project-custom-info">
 				<div class="heading-block">
-					<h4><?php _e('Proje detay','er_leaf');?></h4>
+					<h4><?php _e('Project Details','er_leaf');?></h4>
 				</div><!-- // .heading-block -->
 
 				<?php the_content();?>
@@ -139,7 +139,7 @@
 
 			<div class="recent-projects">
 				<div class="heading-block">
-					<h4><?php _e('Diğer Projeler','er_leaf'); ?></h4>
+					<h4><?php _e('Recent Projects','er_leaf'); ?></h4>
 					<div class="button-area">
 						<a href="#" class="prev" id="rp_prev"><i class="icon-angle-left"></i></a>
 						<a href="#" class="next" id="rp_next"><i class="icon-angle-right"></i></a>

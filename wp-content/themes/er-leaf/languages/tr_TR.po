@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ER Leaf\n"
 "POT-Creation-Date: 2013-10-16 00:31+0700\n"
-"PO-Revision-Date: 2014-02-19 23:34+0200\n"
+"PO-Revision-Date: 2016-11-23 01:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: EverisLabs <support@everislabs.com>\n"
 "Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -40,13 +40,13 @@ msgstr "Yorumlar"
 msgid "Add your comment"
 msgstr "Yorum Ekle"
 
-#: comments.php:28 ../er-leaf/comments.php:28
-#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+#: comments.php:28 ../er-leaf/comments.php:28 ../twentythirteen/comments.php:46
+#: ../twentytwelve/comments.php:43
 msgid "&larr; Older Comments"
 msgstr "Önceki Yorumlar"
 
-#: comments.php:29 ../er-leaf/comments.php:29
-#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+#: comments.php:29 ../er-leaf/comments.php:29 ../twentythirteen/comments.php:47
+#: ../twentytwelve/comments.php:44
 msgid "Newer Comments &rarr;"
 msgstr "Sonraki Yorumlar"
 
@@ -71,10 +71,9 @@ msgstr "Website"
 msgid "Submit comment"
 msgstr "Gönder"
 
-#: content-blog.php:9 content-blog.php:18 header.php:63
-#: framework/posts.php:280 ../er-leaf/content-blog.php:9
-#: ../er-leaf/content-blog.php:18 ../er-leaf/header.php:63
-#: ../er-leaf/framework/posts.php:280
+#: content-blog.php:9 content-blog.php:18 header.php:63 framework/posts.php:280
+#: ../er-leaf/content-blog.php:9 ../er-leaf/content-blog.php:18
+#: ../er-leaf/header.php:63 ../er-leaf/framework/posts.php:280
 msgid "Permalink to: "
 msgstr ""
 
@@ -202,11 +201,9 @@ msgstr ""
 #: page-portfolio.php:22 page.php:37 single.php:26
 #: ../er-leaf/page-portfolio.php:22 ../er-leaf/page.php:37
 #: ../er-leaf/single.php:26 ../twentythirteen/content-aside.php:14
-#: ../twentythirteen/content-audio.php:25
-#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-audio.php:25 ../twentythirteen/content-chat.php:24
 #: ../twentythirteen/content-gallery.php:25
-#: ../twentythirteen/content-image.php:24
-#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-image.php:24 ../twentythirteen/content-link.php:25
 #: ../twentythirteen/content-quote.php:14
 #: ../twentythirteen/content-status.php:14
 #: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:40
@@ -225,11 +222,9 @@ msgstr ""
 #: page.php:40 framework/posts.php:61 ../er-leaf/page.php:40
 #: ../er-leaf/framework/posts.php:61 ../twentythirteen/content-aside.php:20
 #: ../twentythirteen/content-aside.php:28
-#: ../twentythirteen/content-audio.php:31
-#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-audio.php:31 ../twentythirteen/content-chat.php:29
 #: ../twentythirteen/content-gallery.php:39
-#: ../twentythirteen/content-image.php:35
-#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-image.php:35 ../twentythirteen/content-link.php:19
 #: ../twentythirteen/content-quote.php:25
 #: ../twentythirteen/content-status.php:19
 #: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:29
@@ -244,16 +239,16 @@ msgstr "Düzenle"
 
 #: single-portfolio.php:32 ../er-leaf/single-portfolio.php:32
 msgid "Project description"
-msgstr ""
+msgstr "Ürün açıklaması"
 
 #: single-portfolio.php:39 ../er-leaf/single-portfolio.php:39
 msgid "Project details"
-msgstr ""
+msgstr "Ürün detayı"
 
 #: single-portfolio.php:44 framework/portfolio.php:60
 #: ../er-leaf/single-portfolio.php:44 ../er-leaf/framework/portfolio.php:60
 msgid "Categories"
-msgstr ""
+msgstr "Kategoriler"
 
 #: single-portfolio.php:52 framework/portfolio.php:86
 #: ../er-leaf/single-portfolio.php:52 ../er-leaf/framework/portfolio.php:86
@@ -287,11 +282,11 @@ msgstr ""
 #: single-portfolio.php:111 framework/metabox.php:201
 #: ../er-leaf/single-portfolio.php:111 ../er-leaf/framework/metabox.php:201
 msgid "Project Detail"
-msgstr ""
+msgstr "Ürün Detay"
 
 #: single-portfolio.php:133 ../er-leaf/single-portfolio.php:133
 msgid "Recent Projects"
-msgstr ""
+msgstr "Diğer Ürünler"
 
 #: top-widget.php:46 ../er-leaf/top-widget.php:46
 msgid "Open"
@@ -472,11 +467,11 @@ msgstr ""
 
 #: framework/metabox.php:205 ../er-leaf/framework/metabox.php:205
 msgid "Content"
-msgstr ""
+msgstr "İçerik"
 
 #: framework/metabox.php:209 ../er-leaf/framework/metabox.php:209
 msgid "Edit project detail here ..."
-msgstr ""
+msgstr "Ürün bilgilerini düzenleyin..."
 
 #: framework/metabox.php:218 ../er-leaf/framework/metabox.php:218
 msgid "Project Infomations"
@@ -484,7 +479,7 @@ msgstr ""
 
 #: framework/metabox.php:224 ../er-leaf/framework/metabox.php:224
 msgid "Author of project"
-msgstr ""
+msgstr "Üretim Yeri"
 
 #: framework/metabox.php:232 ../er-leaf/framework/metabox.php:232
 msgid "Your Partner"
@@ -496,15 +491,15 @@ msgstr ""
 
 #: framework/metabox.php:248 ../er-leaf/framework/metabox.php:248
 msgid "Project Release Date"
-msgstr ""
+msgstr "Üretim Tarihi"
 
 #: framework/metabox.php:254 ../er-leaf/framework/metabox.php:254
 msgid "Project Link"
-msgstr ""
+msgstr "Ürün Link"
 
 #: framework/metabox.php:256 ../er-leaf/framework/metabox.php:256
 msgid "URL of your project"
-msgstr ""
+msgstr "Ürün Url"
 
 #: framework/metabox.php:261 ../er-leaf/framework/metabox.php:261
 msgid "Cusom Field"
@@ -516,11 +511,11 @@ msgstr ""
 
 #: framework/metabox.php:269 ../er-leaf/framework/metabox.php:269
 msgid "Project Images"
-msgstr ""
+msgstr "Ürün Resimleri"
 
 #: framework/metabox.php:273 ../er-leaf/framework/metabox.php:273
 msgid "Upload your project images"
-msgstr ""
+msgstr "Ürün resimleri yükle"
 
 #: framework/plugin-activation.php:164
 #: ../er-leaf/framework/plugin-activation.php:164 ../inovado/functions.php:138
@@ -557,8 +552,7 @@ msgstr ""
 
 #: framework/plugin-activation.php:179 framework/plugin-activation.php:1846
 #: ../er-leaf/framework/plugin-activation.php:179
-#: ../er-leaf/framework/plugin-activation.php:1846
-#: ../inovado/functions.php:153
+#: ../er-leaf/framework/plugin-activation.php:1846 ../inovado/functions.php:153
 #: ../inovado/framework/inc/plugin-activation.php:179
 #: ../inovado/framework/inc/plugin-activation.php:1846
 msgid "Plugin activated successfully."
@@ -826,7 +820,7 @@ msgstr ""
 #: framework/portfolio.php:21 framework/slider.php:11
 #: ../er-leaf/framework/portfolio.php:21 ../er-leaf/framework/slider.php:11
 msgid "Add New"
-msgstr ""
+msgstr "Yeni Ekle"
 
 #: framework/portfolio.php:22 ../er-leaf/framework/portfolio.php:22
 msgid "Add New Project"
@@ -834,36 +828,36 @@ msgstr ""
 
 #: framework/portfolio.php:23 ../er-leaf/framework/portfolio.php:23
 msgid "Edit Project"
-msgstr ""
+msgstr "Ürün Düzenle"
 
 #: framework/portfolio.php:24 ../er-leaf/framework/portfolio.php:24
 msgid "New Project"
-msgstr ""
+msgstr "Yeni Ürün"
 
 #: framework/portfolio.php:25 ../er-leaf/framework/portfolio.php:25
 msgid "All Projects"
-msgstr ""
+msgstr "Tüm Ürünler"
 
 #: framework/portfolio.php:26 ../er-leaf/framework/portfolio.php:26
 msgid "View Project"
-msgstr ""
+msgstr "Ürünü Göster"
 
 #: framework/portfolio.php:27 ../er-leaf/framework/portfolio.php:27
 msgid "Search Project"
-msgstr ""
+msgstr "Ürün Arama"
 
 #: framework/portfolio.php:28 ../er-leaf/framework/portfolio.php:28
 msgid "No projects found"
-msgstr ""
+msgstr "Ürün bulunamadı"
 
 #: framework/portfolio.php:29 ../er-leaf/framework/portfolio.php:29
 msgid "No projects found in Trash"
-msgstr ""
+msgstr "Ürün bulunamadı"
 
 #: framework/portfolio.php:61 framework/portfolio.php:70
 #: ../er-leaf/framework/portfolio.php:61 ../er-leaf/framework/portfolio.php:70
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 #: framework/portfolio.php:62 ../er-leaf/framework/portfolio.php:62
 msgid "Search Categories"
@@ -900,7 +894,7 @@ msgstr ""
 #: framework/portfolio.php:87 framework/portfolio.php:96
 #: ../er-leaf/framework/portfolio.php:87 ../er-leaf/framework/portfolio.php:96
 msgid "Tag"
-msgstr ""
+msgstr "Etiket"
 
 #: framework/portfolio.php:88 ../er-leaf/framework/portfolio.php:88
 msgid "Search Tags"
@@ -2373,8 +2367,7 @@ msgstr ""
 #: ../twentythirteen/content-aside.php:13
 #: ../twentythirteen/content-audio.php:24
 #: ../twentythirteen/content-gallery.php:24
-#: ../twentythirteen/content-image.php:23
-#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-image.php:23 ../twentythirteen/content-link.php:24
 #: ../twentythirteen/content-quote.php:13
 #: ../twentythirteen/content-status.php:13
 #: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:39
