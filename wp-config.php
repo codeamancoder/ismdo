@@ -18,8 +18,8 @@
 // ** MySQL ayarları - Bu bilgileri sunucunuzdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
 
-//define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', '/home/srkn/ismido.com.tr/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
+define('WP_CACHE', true); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', '/home/ismido/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 
 define('DISALLOW_FILE_EDIT', false);
 
