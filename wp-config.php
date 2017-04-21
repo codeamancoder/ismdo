@@ -23,10 +23,10 @@ define( 'WPCACHEHOME', '/home/ismido/public_html/wp-content/plugins/wp-super-cac
 
 define('DISALLOW_FILE_EDIT', false);
 
-define('DB_NAME', 'srkn_ismidv2');
+define('DB_NAME', 'ismido_ismidv2');
 
 /** MySQL veritabanı kullanıcısı */
-define('DB_USER', 'srkn_ismidv2');
+define('DB_USER', 'ismido_ismidv2');
 
 /** MySQL veritabanı parolası */
 define('DB_PASSWORD', 'iTk0ESNP');
