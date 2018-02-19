@@ -19,14 +19,14 @@
 /** WordPress için kullanılacak veritabanının adı */
 
 define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', '/home/ismido/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', '/home/ismidom/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 
 define('DISALLOW_FILE_EDIT', false);
 
-define('DB_NAME', 'ismido_ismidv2');
+define('DB_NAME', 'ismidom_ismidv2');
 
 /** MySQL veritabanı kullanıcısı */
-define('DB_USER', 'ismido_ismidv2');
+define('DB_USER', 'ismidom_ismidv2');
 
 /** MySQL veritabanı parolası */
 define('DB_PASSWORD', 'iTk0ESNP');
